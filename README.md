@@ -12,5 +12,6 @@ This repo allows users to eaisly program their smart shoe as well as showing pra
 
   *Note if your computer doesnt support git, you can install the provided .zip instead.
   
+   After the repo has been cloned, move the files to arduino/libraries
   
   
