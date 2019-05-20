@@ -4,9 +4,13 @@ This repo allows users to eaisly program their smart shoe as well as showing pra
 
 ### Installing:
 
-First, start by cloning to your drive
+  First, start by cloning to your drive
 
-```
-git clone repo
-```
+  ```
+  git clone  https://bit.ly/2YBfOvL
+  ```
 
+  *Note if your computer doesnt support git, you can install the provided .zip instead.
+  
+  
+  
